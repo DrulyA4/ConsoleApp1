@@ -22,6 +22,7 @@ namespace ExampleApp
             var res2 = num2 - 3;
             var res3 = Math.Pow(num3, 2);
             var sum = res + res2 + res3;
+            var res4 = 12;
             Console.WriteLine($" {res} {res2} {res3} {sum}"); 
         }
     }
